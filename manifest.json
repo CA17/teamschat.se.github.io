@@ -6,6 +6,8 @@
     "description": "ChatGPT is a chatbot that uses GPT-3 to chat with you.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
+    "background_color": "#hexcode",
+    "theme_color": "#hexcode",
     "icons": [
         {
             "src": "icons/Icon-192.png",
